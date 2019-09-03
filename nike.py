@@ -14,7 +14,7 @@ class Nike:
     def login(self):
 
         # 쿠키 담기
-        cookies = "자신의 쿠키를 넣어주세요"
+        cookies = "1P_JAR"
 
         driver.maximize_window()
         driver.implicitly_wait(3)
